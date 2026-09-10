@@ -1,0 +1,7 @@
+_inspection/
+交付给队友B/
+交付给队友B.7z
+**/__pycache__/
+*.py[cod]
+~$*.xlsx
+*.tmp
