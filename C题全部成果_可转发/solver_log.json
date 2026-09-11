@@ -1,0 +1,23 @@
+{
+  "seed": 20260910,
+  "scenario_count": 8,
+  "runtime_s": 142.4985388,
+  "rows": 192528,
+  "strategies": {
+    "result2": 48096,
+    "result3": 48096,
+    "result4-2": 48096,
+    "result4-3": 48096,
+    "result1": 144
+  },
+  "extreme_forecast_error_date": "2025-06-01",
+  "max_balance_residual_kwh": 2.2737367544323206e-13,
+  "max_soc_residual_kwh": 9.094947017729282e-13,
+  "simultaneous_charge_discharge_intervals": 0,
+  "solver_statuses": [
+    "OPTIMAL_CAUSAL_MPC_4X",
+    "OPTIMAL_CVAR",
+    "OPTIMAL_DETERMINISTIC_LP",
+    "OPTIMAL_SAFETY"
+  ]
+}
